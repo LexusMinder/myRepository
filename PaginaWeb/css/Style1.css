@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4/12/2017, 06:46:54 PM
+    Author     : moust
+*/
+
+
+body{
+    background-image: url('../img/03A.jpg');
+}
+
+.navbar-brand a:link, .navbar-brand a:visited{
+
+}
+
+.navbar-brand a:hover, .navbar-brand a:active{
+    color: #ff9900 !important;
+
+}
+
+.contenido-articulo {
+    background-color: white;
+    padding: 2em;
+}
+/*
+hover
+link
+visited
+active
+*/
+
