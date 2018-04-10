@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523309538 source:f:\practica6\main.cpp
+	<iostream>
+	<Cuenta.h>
+
+1523310258 source:f:\practica6\src\cuenta.cpp
+	<iostream>
+	"Cuenta.h"
+
+1523308142 f:\practica6\include\cuenta.h
+	<string>
+
